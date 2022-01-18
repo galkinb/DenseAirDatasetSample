@@ -1,0 +1,1 @@
+This is a sample of the dataset obtained from taking drone measurements of an experimental testbed in the Dublin Docklands area. Refer to "Experimental Evaluation of a UAV User QoS from a Two-Tier 3.6GHz Spectrum Network" by Galkin et al., IEEE ICC 2021. For the full dataset, please contact cduff@denseair.net or galkinb@tcd.ie
